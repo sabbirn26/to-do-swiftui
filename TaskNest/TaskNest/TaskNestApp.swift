@@ -14,11 +14,13 @@ import SwiftUI
  */
 @main
 struct TaskNestApp: App {
+    @StateObject var listViewModel : ListViewModel = ListViewModel()
     var body: some Scene {
         WindowGroup {
             NavigationView{
                 ListView()
             }
+            .environmentObject(listViewModel)
         }
     }
 }
