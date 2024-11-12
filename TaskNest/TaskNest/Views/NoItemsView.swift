@@ -14,9 +14,11 @@ struct NoItemsView: View {
         ScrollView{
             VStack(spacing: 10){
                 Text("There is nothing to do, man!")
-                    .font(.title2)
+                    .font(.title)
                     .fontWeight(.semibold)
-                Text("Got nothing to do? Then do 10 push-ups real quick! Or read Quran! Just do it!")
+                    .underline()
+                    .padding(.bottom)
+                Text("Got nothing on mind? Then do 10 push-ups real quick! Or read books! Just do it!")
                     .padding(.bottom, 20)
                 NavigationLink(destination: AddView(), label: {
                     Text("Add something to do 🫵🏼")
