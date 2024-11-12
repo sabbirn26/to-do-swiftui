@@ -20,6 +20,7 @@ struct TaskNestApp: App {
             NavigationView{
                 ListView()
             }
+            .navigationViewStyle(StackNavigationViewStyle())
             .environmentObject(listViewModel)
         }
     }
