@@ -30,7 +30,7 @@
 		89726FA82CE2002D00E4A6C7 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		89726FAB2CE2180100E4A6C7 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 		89DEF3042CE31F09000433A4 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
-		89DEF3062CE3315A000433A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		89DEF3062CE3315A000433A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89DEF3072CE33211000433A4 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,12 +64,12 @@
 		89726F912CE1DB5100E4A6C7 /* TaskNest */ = {
 			isa = PBXGroup;
 			children = (
-				89DEF3062CE3315A000433A4 /* Info.plist */,
 				89726F922CE1DB5100E4A6C7 /* TaskNestApp.swift */,
 				89726FA72CE2000100E4A6C7 /* Models */,
 				89726FAA2CE2170A00E4A6C7 /* ViewModels */,
 				89726FA02CE1E11500E4A6C7 /* Views */,
 				89726F962CE1DB5300E4A6C7 /* Assets.xcassets */,
+				89DEF3062CE3315A000433A4 /* Info.plist */,
 				89726F982CE1DB5300E4A6C7 /* Preview Content */,
 			);
 			path = TaskNest;
@@ -337,7 +337,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.practice.project.TaskNest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sabbir.practice.project.TaskNest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -368,7 +368,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.practice.project.TaskNest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sabbir.practice.project.TaskNest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
