@@ -16,15 +16,19 @@ TaskNest is a clean and intuitive ToDo list application built with SwiftUI. It f
 
 ## Screenshots 📸
 
-<!-- Add your screenshots here -->
-![Main Screen](screenshots/main-screen.png)
-![Add Task](screenshots/add-task.png)
-![Empty State](screenshots/empty-state.png)
+<div align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <img src="screenshots/main-screen.png" width="250" alt="Main Screen"/>
+    <img src="screenshots/add-task.png" width="250" alt="Add Task"/>
+    <img src="screenshots/empty-state.png" width="250" alt="Empty State"/>
+  </div>
+</div>
 
-## Demo 🎥
+## App Demo 🎥
 
-<!-- Add your GIF demo here -->
-![App Demo](demo/tasknest-demo.gif)
+<div align="center">
+  <img src="demo/tasknest-demo.gif" width="300" alt="App Demo"/>
+</div>
 
 ## Requirements 📋
 
@@ -88,7 +92,7 @@ The app features smooth animations for:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Acknowledgments 👏
+## Acknowledgments 👏
 
 Nick Sarno - https://github.com/SwiftfulThinking
 
