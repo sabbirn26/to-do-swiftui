@@ -100,4 +100,4 @@ Nick Sarno - https://github.com/SwiftfulThinking
 
 Sabbir Nasir - nsabbir26@gmail.com
 
-Project Link: [https://github.com/sabbirn26/TaskNest](https://github.com/sabbirn26/TaskNest)
+Project Link: [https://github.com/sabbirn26/TaskNest](https://github.com/sabbirn26/to-do-swiftui)
