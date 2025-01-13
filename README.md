@@ -40,7 +40,7 @@ TaskNest is a clean and intuitive ToDo list application built with SwiftUI. It f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/TaskNest.git
+git clone https://github.com/sabbirn26/TaskNest.git
 ```
 
 2. Open `TaskNest.xcodeproj` in Xcode
