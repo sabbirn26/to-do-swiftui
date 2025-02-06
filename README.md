@@ -94,10 +94,11 @@ The app features smooth animations for:
 
 ## Acknowledgments 👏
 
-Nick Sarno - https://github.com/SwiftfulThinking
+- [SwiftfulThinking](https://www.youtube.com/@SwiftfulThinking) for SwiftUI tutorials and inspiration
 
 ## Contact 📫
 
-Sabbir Nasir - nsabbir26@gmail.com
+Sabbir Nasir
+- LinkedIn: [Sabbir Nasir](https://www.linkedin.com/in/sabbirn26/)
+- GitHub: [@sabbirn26](https://github.com/sabbirn26)
 
-Project Link: [https://github.com/sabbirn26/TaskNest](https://github.com/sabbirn26/to-do-swiftui)
